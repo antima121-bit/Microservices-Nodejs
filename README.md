@@ -69,7 +69,7 @@ nodejs-microservices-example
 Clone the example repo:
 
 ```bash
-git clone https://github.com/ashleydavis/nodejs-microservices-example.git
+git clone https://github.com/antima121-bit/Microservices-Nodejs
 ```
 
 # Starting the application for development
